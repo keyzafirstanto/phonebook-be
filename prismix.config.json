@@ -1,0 +1,11 @@
+{
+  "mixers": [
+    {
+      "input": [
+        "base.prisma",
+        "./app/models/contact.model/contact.prisma"
+      ],
+      "output": "prisma/schema.prisma"
+    }
+  ]
+}
