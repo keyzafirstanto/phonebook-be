@@ -9,7 +9,6 @@ Phonebook-be is a backend project that serves as the backbone for a the client-s
 - [Installation](#installation)
 - [Tech Stacks](#tech-stack)
 - [API Documentation](#api-documentation)
-- [Database Schema](#database-schema)
 
 ## Installation
 
